@@ -1,0 +1,11 @@
+E:\Personal\blog\edgargonzalez\bin\Debug\netcoreapp2.0\edgargonzalez.deps.json
+E:\Personal\blog\edgargonzalez\bin\Debug\netcoreapp2.0\edgargonzalez.runtimeconfig.json
+E:\Personal\blog\edgargonzalez\bin\Debug\netcoreapp2.0\edgargonzalez.runtimeconfig.dev.json
+E:\Personal\blog\edgargonzalez\bin\Debug\netcoreapp2.0\edgargonzalez.dll
+E:\Personal\blog\edgargonzalez\bin\Debug\netcoreapp2.0\edgargonzalez.pdb
+E:\Personal\blog\edgargonzalez\obj\Debug\netcoreapp2.0\edgargonzalez.csprojResolveAssemblyReference.cache
+E:\Personal\blog\edgargonzalez\obj\Debug\netcoreapp2.0\edgargonzalez.csproj.CoreCompileInputs.cache
+E:\Personal\blog\edgargonzalez\obj\Debug\netcoreapp2.0\edgargonzalez.AssemblyInfoInputs.cache
+E:\Personal\blog\edgargonzalez\obj\Debug\netcoreapp2.0\edgargonzalez.AssemblyInfo.cs
+E:\Personal\blog\edgargonzalez\obj\Debug\netcoreapp2.0\edgargonzalez.dll
+E:\Personal\blog\edgargonzalez\obj\Debug\netcoreapp2.0\edgargonzalez.pdb
